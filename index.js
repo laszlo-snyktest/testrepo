@@ -1,3 +1,3 @@
 const _ = require("lodash");
 
-console.log("hello, world!");
+console.log("hello, World!");
